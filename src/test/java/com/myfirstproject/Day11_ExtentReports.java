@@ -16,7 +16,6 @@ public class Day11_ExtentReports extends myfirstproject.utilities.TestBase {
         extentTest.fail("THIS WILL FAIL");
 //        logging as sipped
         extentTest.skip("THI IS SKIPPED");
-// bu bir denemedir
-        ///bugun githup ogrendik
+
     }
 }
